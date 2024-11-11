@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/390f5555-e207-4070-9034-2ea9c326c991
-
 Hybrate Chatbot
 Hybrate Chatbot is an innovative hybrid system that combines a rule-based chatbot with the AI model Gimini. This fusion allows it to provide 99% accurate responses while learning from user interactions to continually improve its performance.
 
