@@ -1,4 +1,4 @@
-Hybrate Chatbot
+Hybrite Chatbot
 Hybrate Chatbot is an innovative hybrid system that combines a rule-based chatbot with the AI model Gimini. This fusion allows it to provide 99% accurate responses while learning from user interactions to continually improve its performance.
 
 Key Features:
